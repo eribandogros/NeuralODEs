@@ -1,6 +1,6 @@
 # Neural ODEs
 
-First introduced in [[1]](#1), neural ODEs offer a new deep neural network paradigm where the output of a neural network is computed through a differential equation solver. This method has a much lower memory cost than ResNets, due to continuous-depth. Here is a simple implementation of the supervised learning of a dynamical systems in MATLAB.
+First introduced in [[1]](#1), neural ODEs offer a new deep neural network paradigm where the output of a neural network is computed through a differential equation solver. This method has a much lower memory cost than ResNets, due to continuous-depth. Here is a simple implementation of the supervised learning of a dynamical system in MATLAB.
 
 # Dependencies
 
